@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MarvelAPI</string>
+    <string name="msg_loading">Aguarde, carregando.</string>
+    <string name="erro_conexao">Erro de Conexão</string>
+</resources>
